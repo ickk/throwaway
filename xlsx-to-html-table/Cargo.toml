@@ -1,0 +1,9 @@
+[package]
+name = "xlsx-to-html"
+version = "0.1.0"
+authors = ["ickk"]
+edition = "2018"
+
+[dependencies]
+calamine = "0.18.0"
+indoc = "1.0"
