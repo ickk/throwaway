@@ -1,0 +1,9 @@
+[package]
+name = "bevy_prototype_interaction"
+version = "0.0.1"
+edition = "2021"
+authors = ["ickk"]
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+bevy = "0.6"
